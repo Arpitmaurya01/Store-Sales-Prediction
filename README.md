@@ -1,15 +1,15 @@
-Title -:   				Stores Sales Prediction
+#Title -:   				##Stores Sales Prediction
 
-Domain -: 			Sales & Marketing
+#Domain -: 			##Sales & Marketing
 
-Problem Statement-:
+#Problem Statement-:
 				Nowadays, shopping malls and Big Marts keep track of individual item sales data in order to forecast future client demand and adjust inventory management. In a data warehouse, these data stores hold a significant amount of consumer information and particular item details. By mining the data store from the data warehouse, more anomalies and common patterns can be discovered.
 				
-Approach-:
+#Approach-:
 			The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and Model Testing. Try out different machine learning algorithms that’s best fit for the above case.
 
 
-Dataset-:
+#Dataset-:
 		We have train (8523) and test (5681) data set, train data set has both input and output variable(s). We need to predict the sales for test data set.
         
 •	Item_Identifier: Unique product ID
